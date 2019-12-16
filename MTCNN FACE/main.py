@@ -62,3 +62,4 @@ while True:
 #When everything's done, release capture
 cap.release()
 cv2.destroyAllWindows()
+import compare
